@@ -38,7 +38,7 @@ o=durga()
 o.hyd()
 class navya(Bsec):
     def hyd(self):
-        print("makante pandaga ledhu prends ! miraina pandaga cheskondi prends")
+        print("durga---makante pandaga ledhu prends ! miraina pandaga cheskondi prends")
 o=navya()
 o.hyd()
 
